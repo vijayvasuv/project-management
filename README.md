@@ -1,3 +1,3 @@
 # project-management
 
-This is sauce & spoon project completed as part of Google Project Management certification.
+This is a capstone project during Google Project Management Specialization certificate. As a Project Manager, I was responsible for the launch of Tabletop Tablet menu for Sauce & Spoon restaurant chain.
